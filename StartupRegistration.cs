@@ -3,6 +3,7 @@ using Microsoft.Win32;
 namespace ClipRing;
 
 /// <summary>
+/// Awesome
 /// Turns "start with Windows" on or off via the current user's Run registry key.
 /// </summary>
 internal static class StartupRegistration
